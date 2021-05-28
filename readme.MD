@@ -2,9 +2,10 @@
 
 Create your own handwired keyboard or macropad using QMK.
 
-## Offical QMK Documentation.
+## Documentation.
 
 [QMK](https://qmk.fm/)
+[VIA](https://caniusevia.com/docs/specification/)
 
 ### Handwired keyboards Guide
 
@@ -16,3 +17,7 @@ Create your own handwired keyboard or macropad using QMK.
 
 ### VIA JSON 
 
+These are the JSON files that need to be imported to VIA
+
+- [VIA](https://caniusevia.com/) 
+- [mingwahlu VIA JSON](https://github.com/tan00060/handwiredKeyboard/tree/main/mingVIA)
